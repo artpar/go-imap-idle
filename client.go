@@ -4,7 +4,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/emersion/go-imap/client"
+	"github.com/artpar/go-imap/client"
 )
 
 const (
