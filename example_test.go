@@ -3,8 +3,8 @@ package idle_test
 import (
 	"log"
 
-	"github.com/emersion/go-imap/client"
-	"github.com/emersion/go-imap-idle"
+	"github.com/artpar/go-imap/client"
+	"github.com/artpar/go-imap-idle"
 )
 
 func ExampleClient_Idle() {
